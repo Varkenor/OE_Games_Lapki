@@ -2415,6 +2415,14 @@
       "requirement": "Достижение \"Экспресс-доставка\"",
       "points": 35,
       "status": "на рассмотрении"
+    },
+    {
+      "issue": 24,
+      "nickname": "yeradan",
+      "game": "Blasphemous",
+      "requirement": "100% достижений, 50+ часов",
+      "points": 6,
+      "status": "на рассмотрении"
     }
   ]
 }
