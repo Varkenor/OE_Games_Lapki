@@ -3,8 +3,8 @@ main = "src/index.js"
 compatibility_date = "2025-06-01"
 
 [vars]
-DATA_URL = "https://varkenor.github.io/OE_Games_Lapki-main/data.json"
-ALLOWED_ORIGINS = "https://masonhades.github.io,http://localhost:8000"
+DATA_URL = "https://varkenor.github.io/OE_Games_Lapki/data.json"
+ALLOWED_ORIGINS = "https://varkenor.github.io,https://masonhades.github.io,http://localhost:8000"
 # Репозиторий, в котором создаются Issue с предложениями.
 GITHUB_REPO = "Varkenor/OE_Games_Lapki"
 
