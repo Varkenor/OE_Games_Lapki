@@ -1791,7 +1791,8 @@
       "nickname": "bruhworld04",
       "game": "Slay the Spire 2",
       "requirement": "пройти 10 возвышений на всех персонажах",
-      "points": 35
+      "points": 35,
+      "check": null
     },
     {
       "game": "Stellaris",
@@ -2381,6 +2382,14 @@
       "game": "DIVE or DIE - Children of Rain",
       "requirement": "Достижение: \"Вестник дождя\"",
       "points": 7,
+      "status": "на рассмотрении"
+    },
+    {
+      "issue": 22,
+      "nickname": "Masonhades",
+      "game": "test",
+      "requirement": "100% достижений",
+      "points": 10,
       "status": "на рассмотрении"
     }
   ]
