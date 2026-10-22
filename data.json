@@ -2052,7 +2052,23 @@
         },
         "mode": "all"
       }
-    }
+    },
+    {
+  "game": "Stardew Valley",
+  "requirement": "Достижение \"Совершенство\".",
+  "points": 30,
+  "check": {
+    "apps": [
+      413150
+    ],
+    "achievements": {
+      "413150": [
+        "Achievement_Perfection"
+      ]
+    },
+    "mode": "all"
+  }
+ }
   ],
   "Сломанные": [
     {
