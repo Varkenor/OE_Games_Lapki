@@ -2423,6 +2423,14 @@
       "requirement": "100% достижений, 50+ часов",
       "points": 6,
       "status": "на рассмотрении"
+    },
+    {
+      "issue": 25,
+      "nickname": "_jar1z",
+      "game": "Megabonk",
+      "requirement": "Сделать 700к убийств за 1 забег",
+      "points": 80,
+      "status": "на рассмотрении"
     }
   ]
 }
