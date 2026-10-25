@@ -2439,6 +2439,14 @@
       "requirement": "Достижение \"Memories in Orbit\", 100% достижений",
       "points": 8,
       "status": "на рассмотрении"
+    },
+    {
+      "issue": 27,
+      "nickname": "hostt1",
+      "game": "ARC Raiders",
+      "requirement": "70% достижений, 85+ часов",
+      "points": 4,
+      "status": "на рассмотрении"
     }
   ]
 }
