@@ -2431,6 +2431,14 @@
       "requirement": "Сделать 700к убийств за 1 забег",
       "points": 80,
       "status": "на рассмотрении"
+    },
+    {
+      "issue": 26,
+      "nickname": "hostt1",
+      "game": "MIO: Memories in Orbit",
+      "requirement": "Достижение \"Memories in Orbit\", 100% достижений",
+      "points": 8,
+      "status": "на рассмотрении"
     }
   ]
 }
