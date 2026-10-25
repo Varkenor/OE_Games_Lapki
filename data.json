@@ -2447,6 +2447,14 @@
       "requirement": "70% достижений, 85+ часов",
       "points": 4,
       "status": "на рассмотрении"
+    },
+    {
+      "issue": 28,
+      "nickname": "kirbzya",
+      "game": "Neon White",
+      "requirement": "Достижение \"100%\"",
+      "points": 7,
+      "status": "на рассмотрении"
     }
   ]
 }
