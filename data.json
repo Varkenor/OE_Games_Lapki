@@ -2535,6 +2535,14 @@
       "requirement": "100% достижений",
       "points": 4,
       "status": "на рассмотрении"
+    },
+    {
+      "issue": 39,
+      "nickname": "basrich",
+      "game": "Kingdom Two Crowns",
+      "requirement": "Достижение \"Головоломка\", 20+ часов",
+      "points": 3,
+      "status": "на рассмотрении"
     }
   ]
 }
