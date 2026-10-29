@@ -2495,6 +2495,14 @@
       "requirement": "Достижение \"Магнат\"",
       "points": 8,
       "status": "на рассмотрении"
+    },
+    {
+      "issue": 34,
+      "nickname": "basrich",
+      "game": "arknights",
+      "requirement": "Пройти аннигиляции \"Lungmen Outskirts\" \"Lungmen DownTown\" \"Chernobog\"",
+      "points": 3,
+      "status": "на рассмотрении"
     }
   ]
 }
