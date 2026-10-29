@@ -2511,6 +2511,14 @@
       "requirement": "Пройти MDH 60 ADVERSITY",
       "points": 8,
       "status": "на рассмотрении"
+    },
+    {
+      "issue": 36,
+      "nickname": "basrich",
+      "game": "Quasimorph",
+      "requirement": "Достижение \"Поцелуй женщины-паука\", 40+ часов",
+      "points": 8,
+      "status": "на рассмотрении"
     }
   ]
 }
