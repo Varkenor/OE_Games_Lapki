@@ -2527,6 +2527,14 @@
       "requirement": "100% достижений, 25+ часов",
       "points": 5,
       "status": "на рассмотрении"
+    },
+    {
+      "issue": 38,
+      "nickname": "basrich",
+      "game": "Camelot 10000CE",
+      "requirement": "100% достижений",
+      "points": 4,
+      "status": "на рассмотрении"
     }
   ]
 }
