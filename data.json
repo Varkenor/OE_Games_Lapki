@@ -2503,6 +2503,14 @@
       "requirement": "Пройти аннигиляции \"Lungmen Outskirts\" \"Lungmen DownTown\" \"Chernobog\"",
       "points": 3,
       "status": "на рассмотрении"
+    },
+    {
+      "issue": 35,
+      "nickname": "basrich",
+      "game": "Limbus Company",
+      "requirement": "Пройти MDH 60 ADVERSITY",
+      "points": 8,
+      "status": "на рассмотрении"
     }
   ]
 }
