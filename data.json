@@ -2543,6 +2543,14 @@
       "requirement": "Достижение \"Головоломка\", 20+ часов",
       "points": 3,
       "status": "на рассмотрении"
+    },
+    {
+      "issue": 40,
+      "nickname": "the_sb",
+      "game": "Limbus Company",
+      "requirement": "Solo MDH 60",
+      "points": 10,
+      "status": "на рассмотрении"
     }
   ]
 }
